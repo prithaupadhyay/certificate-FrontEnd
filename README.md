@@ -14,7 +14,8 @@ WebStorm
 Css , Images , html.txt
 ```
 ### Write HTML Code
-  Adding Req. images & required components .
+  Adding req. images & required components.
+  
    Merging with CSS
 
 
