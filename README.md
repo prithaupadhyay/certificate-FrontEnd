@@ -12,13 +12,10 @@ WebStorm
 
 # Create folders 
 Css , Images , html.txt
-
-
 ```
+### Write HTML Code
 
-
-
-
+   Merging with CSS
 
 
 
